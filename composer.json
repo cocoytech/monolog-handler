@@ -23,7 +23,7 @@
     [
             {
                 "type": "vcs",
-                "url": "https://github.com/cocoytech/client"
+                "url": "https://github.com/curlybytes/client"
             }
     ],
     "require": {
